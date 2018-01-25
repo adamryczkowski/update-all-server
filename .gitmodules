@@ -1,0 +1,3 @@
+[submodule "rdep"]
+	path = rdep
+	url = git@github.com:adamryczkowski/rdep
